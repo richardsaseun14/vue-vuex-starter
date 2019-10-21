@@ -44,7 +44,6 @@
         "warn",
         {
           "printWidth": 120,
-          "parser": "vue",
           "trailingComma": "none"
         }
       ]
