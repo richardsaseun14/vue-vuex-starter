@@ -1,4 +1,9 @@
-# richsplash-vue
+# Richard Vue Starter Template
+
+## Includes
+```
+Vue, Vuex, Sass, Prettier, Vue-router, Vuexpersistedstate, Yarn
+```
 
 ## Project setup
 ```
